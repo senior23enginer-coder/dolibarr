@@ -261,3 +261,21 @@ Follow Dolibarr project on:
 ## Sponsors
 
 Support this project by becoming a sponsor. Your logo will show up here. 🙏 [[Become a sponsor/backer](https://opencollective.com/dolibarr#backer)]
+
+## Ficha del proyecto
+
+Fork del ERP y CRM Dolibarr con módulos empresariales en PHP.
+
+### Contenido
+
+- [htdocs](./htdocs), [dev](./dev), [build](./build), [test](./test), [pyproject.toml](./pyproject.toml), [htdocs/index.php](./htdocs/index.php).
+
+### Uso
+
+Consulta las instrucciones originales de compilación e instalación para esta revisión. Los requisitos dependen de la plataforma de destino.
+
+### Origen
+
+- [Repositorio de origen](https://github.com/miguelclaros23/dolibarr)
+- [Proyecto del que deriva](https://github.com/Dolibarr/dolibarr)
+- Licencia de origen en [COPYING](./COPYING).
